@@ -1,0 +1,3 @@
+https://towardsdatascience.com/your-first-kaggle-competition-submission-64da366e48cb
+
+https://stackoverflow.com/questions/40803684/parallel-error-with-gridsearchcv-works-fine-with-other-methods
